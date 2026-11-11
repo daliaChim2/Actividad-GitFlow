@@ -3,7 +3,7 @@ using Personaje.personajes;
 Personajes personajes = new Personajes()
 {
     Nombre = "Wildbloom",
-    Vida = 56,
+    Vida = -56,
     Ataque = 75,
     Defensa = 95,
     Nivel = 5
