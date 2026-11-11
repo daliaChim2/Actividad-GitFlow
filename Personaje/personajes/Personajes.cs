@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Personaje.personajes
 {
-    internal class Personajes
+    public class Personajes
     {
         public string Nombre { get; set; }
         public int Vida { get; set; }
